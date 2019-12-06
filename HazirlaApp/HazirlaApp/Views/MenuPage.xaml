@@ -13,6 +13,8 @@
             <d:ListView.ItemsSource>
                 <x:Array Type="{x:Type x:String}">
                     <x:String>Profil</x:String>
+                    <x:String>Canlı Destek</x:String>
+                    <x:String>Dil</x:String>
                     <x:String>Hakkında</x:String>
                     <x:String>Gizlilik & Koşullar</x:String>
                 </x:Array>
